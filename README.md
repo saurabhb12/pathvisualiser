@@ -28,3 +28,5 @@ Once the final node is reached, a stream of purple colour backtracks to find the
 
 ## STARTING, ENDING AND OBSTACLE POSITIONING EXAMPLE
 
+![pic1](https://user-images.githubusercontent.com/45738332/89524243-d9458400-d801-11ea-805d-52075f81cb45.JPG)
+
