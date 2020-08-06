@@ -30,3 +30,10 @@ Once the final node is reached, a stream of purple colour backtracks to find the
 
 ![pic1](https://user-images.githubusercontent.com/45738332/89524243-d9458400-d801-11ea-805d-52075f81cb45.JPG)
 
+## A-STAR ALGORITHM PATH FINDING VISUALISATION USING RED STREAM
+
+![pic2](https://user-images.githubusercontent.com/45738332/89524441-36d9d080-d802-11ea-81dd-1ef50fb2dd95.JPG)
+
+## FINAL PATH DETERMINATION USING PURPLE STREAM
+
+![pic3](https://user-images.githubusercontent.com/45738332/89524568-6c7eb980-d802-11ea-9c00-200c3975b414.JPG)
